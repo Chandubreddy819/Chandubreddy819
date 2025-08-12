@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Chandu 👋
 
-<!--
-**Chandubreddy819/Chandubreddy819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M.Sc. ICT (3rd semester) @ FAU Erlangen** — focused on **communication systems, embedded development, and machine learning**.  
+Industry-proven at **Bosch** (embedded control units; significant time/cost savings). Strong in **Python, C/C++, MATLAB**, and **IoT HW/SW integration**.
 
-Here are some ideas to get you started:
+- 🔬 Current: **BLE + mioty localisation** (CR2032-powered tags, algorithms, real-time mapping)
+- 🎧 Lab: **Audio signal processing** (STFT, enhancement, binaural synthesis)
+- 🧰 Tools: Python, C/C++, MATLAB/Simulink, KiCad, Linux, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+> I’m adding repos over the next weeks. For now:
+- 📡 **ble-mioty-localisation** — *(incoming)* hardware, firmware, algorithms, Leaflet demo
+- 🎵 **audio-binaural-synthesis** — *(incoming)* notebooks + sample audio
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/chandu-b-reddy-a42291170/
+- Email: chandu.baya.reddy@gmail.com
