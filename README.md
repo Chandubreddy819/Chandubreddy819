@@ -10,7 +10,6 @@ Industry-proven at **Bosch** (embedded control units; significant time/cost savi
 ## Featured work
 > I’m adding repos over the next weeks. For now:
 - 📡 **ble-mioty-localisation** — *(incoming)* hardware, firmware, algorithms, Leaflet demo
-- 🎵 **audio-binaural-synthesis** — *(incoming)* notebooks + sample audio
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/chandu-b-reddy-a42291170/
