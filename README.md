@@ -2,7 +2,8 @@
 
 **M.Sc. ICT (3rd semester) @ FAU Erlangen** — focused on **communication systems, embedded development, and machine learning**.  
 Industry-proven at **Bosch** (embedded control units; significant time/cost savings). Strong in **Python, C/C++, MATLAB**, and **IoT HW/SW integration**.
-[Chandu´s_Portfolio](https://docs.google.com/document/d/1sJvFX5ecjaEkqS4_MFXhVqgkHAWknFyt3pux1jD6Ncc/edit?usp=drive_link)
+
+[Chandu_Reddy_Project_Portfolio](https://drive.google.com/file/d/1MYE6Gpx7wsD5jXVXMoX8o-SISc8dp6fT/view?usp=drive_link)
 - 🔬 Current: **BLE + mioty localisation** (CR2032-powered tags, algorithms, real-time mapping)
 - 🎧 Lab: **Audio signal processing** (STFT, enhancement, binaural synthesis)
 - 🧰 Tools: Python, C/C++, MATLAB/Simulink, KiCad, Linux, Git
