@@ -1,6 +1,6 @@
 # Hi, I'm Chandu 👋
 
-**M.Sc. ICT (3rd semester) @ FAU Erlangen** — focused on **communication systems, embedded development, and machine learning**.  
+**M.Sc. ICT (4th semester) @ FAU Erlangen** — focused on **communication systems, embedded development, and machine learning**.  
 Industry-proven at **Bosch** (embedded control units; significant time/cost savings). Strong in **Python, C/C++, MATLAB**, and **IoT HW/SW integration**.
 
 [Chandu_Reddy_Project_Portfolio](https://drive.google.com/file/d/1MYE6Gpx7wsD5jXVXMoX8o-SISc8dp6fT/view?usp=drive_link)
